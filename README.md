@@ -1,5 +1,5 @@
 # Sistema de Gestión de Activos Fijos
-<img width="600" height="600" alt="selabi" src="https://github.com/user-attachments/assets/74a2b213-fc92-46cd-b3ed-37a298569ca8" />
+<img width="300" height="300" alt="selabi" src="https://github.com/user-attachments/assets/74a2b213-fc92-46cd-b3ed-37a298569ca8" />
 
 Este sistema permite registrar, controlar y reportar los activos fijos de una institución pública o privada, integrando funcionalidades de inventario, movimientos, depreciación y reportes agrupados por partidas presupuestarias.
 
