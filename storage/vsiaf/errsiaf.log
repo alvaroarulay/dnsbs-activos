@@ -1,0 +1,41 @@
+
+ERROR en  11:24:10   06/07/2025
+programa:  FRSACTIVFIJ1.ACTIVFIJ.PAGEFRAME1.PAGE1.CMGEDITRECORD82.VALID
+   linea:          83   select nomresp,codresp,cargo from resp where unidad = m.unidadinst and entidad = m.entidadinst and codofic = oficina.codofic and api_estado = 1 into cursor res
+
+  numero:          12   No se encuentra la variable 'ORGFIN'.
+variable:  EDITRECORD
+
+
+=================================================================
+
+ERROR en  11:24:11   06/07/2025
+programa:  FRSACTIVFIJ1.ACTIVFIJ.PAGEFRAME1.PAGE1.CMGEDITRECORD82.VALID
+   linea:          85   select nomresp,codresp,cargo from resp where unidad = m.unidadinst and entidad = m.entidadinst and codofic = oficina.codofic and api_estado = 1 into cursor res
+
+  numero:          12   No se encuentra la variable 'ORGFIN'.
+variable:  EDITRECORD
+
+
+=================================================================
+
+ERROR en  17:02:49   06/07/2025
+programa:  FRSACTIVFIJ1.ACTIVFIJ.PAGEFRAME1.PAGE1.CMGEDITRECORD82.VALID
+   linea:          83   select nomresp,codresp,cargo from resp where unidad = m.unidadinst and entidad = m.entidadinst and codofic = oficina.codofic and api_estado = 1 into cursor res
+
+  numero:          12   No se encuentra la variable 'ORGFIN'.
+variable:  EDITRECORD
+
+
+=================================================================
+
+ERROR en  17:02:50   06/07/2025
+programa:  FRSACTIVFIJ1.ACTIVFIJ.PAGEFRAME1.PAGE1.CMGEDITRECORD82.VALID
+   linea:          85   select nomresp,codresp,cargo from resp where unidad = m.unidadinst and entidad = m.entidadinst and codofic = oficina.codofic and api_estado = 1 into cursor res
+
+  numero:          12   No se encuentra la variable 'ORGFIN'.
+variable:  EDITRECORD
+
+
+=================================================================
+
